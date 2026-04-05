@@ -2075,3 +2075,546 @@ Book'
 2026-03-31 22:45:59,233 [DEBUG] Saved debug_no_book.png
 2026-03-31 22:45:59,236 [DEBUG] Chosen Stand visible: False, Price text: GUJARAT TITANS VS RAJASTHAN ROYALS - TATA IPL 2026
 2026-03-31 22:45:59,746 [ERROR] Could not find 'Book' button — seat may not have been selected
+2026-04-05 10:45:58,180 [DEBUG] Could not reach update server — skipping update check.
+2026-04-05 10:45:58,182 [INFO] SUCCESS: Config saved to config.json (PIN excluded)
+2026-04-05 10:46:55,940 [DEBUG] Could not reach update server — skipping update check.
+2026-04-05 10:46:55,941 [INFO] STEP: Starting booking — account 1
+2026-04-05 10:47:01,598 [INFO] SUCCESS: Loaded session from cookies.json
+2026-04-05 10:47:01,598 [INFO] Opening https://in.bookmyshow.com/sports/gujarat-titans-vs-rajasthan-royals-tata-ipl-2026/ET00491074?data=groupPage
+2026-04-05 10:47:05,315 [INFO] Event: ET00491074 | Venue:  | Session: 00491074
+2026-04-05 10:47:11,780 [INFO] SUCCESS: Clicked 'Book Now'
+2026-04-05 10:47:13,283 [INFO] Session: ET00491227/IPEG/10180
+2026-04-05 10:47:14,296 [INFO] Pressed Escape
+2026-04-05 10:47:19,880 [INFO] SUCCESS: Seat picker visible
+2026-04-05 10:47:19,899 [INFO] SUCCESS: Selected 1 seat(s)
+2026-04-05 10:47:20,132 [INFO] SUCCESS: Clicked 'Continue'
+2026-04-05 10:47:22,216 [INFO] API: 0 categories found
+2026-04-05 10:47:22,217 [INFO] Available categories: []
+2026-04-05 10:47:22,217 [ERROR] No categories available for prices [1000, 1500]
+2026-04-05 10:48:36,035 [DEBUG] Could not reach update server — skipping update check.
+2026-04-05 10:48:36,035 [INFO] STEP: Starting booking — account 1
+2026-04-05 10:48:37,619 [INFO] SUCCESS: Loaded session from cookies.json
+2026-04-05 10:48:37,619 [INFO] Opening https://in.bookmyshow.com/sports/gujarat-titans-vs-rajasthan-royals-tata-ipl-2026/ET00491074?data=groupPage
+2026-04-05 10:48:40,973 [INFO] Event: ET00491074 | Venue:  | Session: 00491074
+2026-04-05 10:48:45,395 [INFO] SUCCESS: Clicked 'Book Now'
+2026-04-05 10:48:46,898 [INFO] Session: ET00491227/IPEG/10180
+2026-04-05 10:48:47,910 [INFO] Pressed Escape
+2026-04-05 10:48:49,928 [INFO] SUCCESS: Seat picker visible
+2026-04-05 10:48:49,944 [INFO] SUCCESS: Selected 1 seat(s)
+2026-04-05 10:48:50,171 [INFO] SUCCESS: Clicked 'Continue'
+2026-04-05 10:48:52,173 [DEBUG] API URL: https://in.bookmyshow.com/api/le/seatLayout/showinfo?eventCode=ET00491227&venueCode=IPEG&sessionID=10180
+2026-04-05 10:48:52,262 [INFO] API: 0 categories found
+2026-04-05 10:48:52,262 [INFO] Available categories: []
+2026-04-05 10:48:52,262 [ERROR] No categories available for prices [1000, 1500]
+2026-04-05 10:49:17,106 [DEBUG] Could not reach update server — skipping update check.
+2026-04-05 10:49:17,107 [INFO] STEP: Starting booking — account 1
+2026-04-05 10:49:18,008 [INFO] SUCCESS: Loaded session from cookies.json
+2026-04-05 10:49:18,008 [INFO] Opening https://in.bookmyshow.com/sports/gujarat-titans-vs-rajasthan-royals-tata-ipl-2026/ET00491074?data=groupPage
+2026-04-05 10:49:21,509 [INFO] Event: ET00491074 | Venue:  | Session: 00491074
+2026-04-05 10:49:27,528 [INFO] SUCCESS: Clicked 'Book Now'
+2026-04-05 10:49:29,033 [INFO] Session: ET00491227/IPEG/10180
+2026-04-05 10:49:30,038 [INFO] Pressed Escape
+2026-04-05 10:49:30,039 [INFO] SUCCESS: Seat picker visible
+2026-04-05 10:49:30,055 [INFO] SUCCESS: Selected 1 seat(s)
+2026-04-05 10:49:30,286 [INFO] SUCCESS: Clicked 'Continue'
+2026-04-05 10:49:32,288 [DEBUG] API URL: https://in.bookmyshow.com/api/le/seatLayout/showinfo?eventCode=ET00491227&venueCode=IPEG&sessionID=10180
+2026-04-05 10:49:32,381 [DEBUG] API response keys: ['errors', 'status']
+2026-04-05 10:49:32,381 [DEBUG] API data: {"errors": {"code": "ERR.APPCODE.UNKNOWN", "message": "Invalid or empty app code", "type": "", "userMessage": ""}, "status": 401}
+2026-04-05 10:49:32,381 [INFO] API: 0 categories found
+2026-04-05 10:49:32,381 [INFO] Available categories: []
+2026-04-05 10:49:32,381 [ERROR] No categories available for prices [1000, 1500]
+2026-04-05 10:50:04,070 [DEBUG] Could not reach update server — skipping update check.
+2026-04-05 10:50:04,071 [INFO] STEP: Starting booking — account 1
+2026-04-05 10:50:05,059 [INFO] SUCCESS: Loaded session from cookies.json
+2026-04-05 10:50:05,059 [INFO] Opening https://in.bookmyshow.com/sports/gujarat-titans-vs-rajasthan-royals-tata-ipl-2026/ET00491074?data=groupPage
+2026-04-05 10:50:08,428 [INFO] Event: ET00491074 | Venue:  | Session: 00491074
+2026-04-05 10:50:13,006 [INFO] SUCCESS: Clicked 'Book Now'
+2026-04-05 10:50:14,512 [INFO] Session: ET00491227/IPEG/10180
+2026-04-05 10:50:15,566 [INFO] Pressed Escape
+2026-04-05 10:50:15,594 [INFO] SUCCESS: Seat picker visible
+2026-04-05 10:50:15,630 [INFO] SUCCESS: Selected 1 seat(s)
+2026-04-05 10:50:15,868 [INFO] SUCCESS: Clicked 'Continue'
+2026-04-05 10:50:17,869 [DEBUG] API URL: https://in.bookmyshow.com/api/le/seatLayout/showinfo?eventCode=ET00491227&venueCode=IPEG&sessionID=10180
+2026-04-05 10:50:17,988 [DEBUG] API response keys: ['data', 'status']
+2026-04-05 10:50:17,988 [DEBUG] API data: {"data": "s/yNv3N5fD6fLKkI2IxeIZSlgunB4zL7dZR76vrpKSmLrxIFcHpHg+yKaW4bb+Wts+5OYB2BJTj1MKLb8xD8R0DcQpFnjm+H7HtFJhfJdBWwhJvlih4hJWdJRdz52vlw4obRHRh5Q34a5gN+TDPc3btRXFS5tMBV1ZgRD0SBaKw6Gpm/zE5v+aIARchCtT2qQXLW+B0/n3T/4VE/hudBcxpkttrCjz3dC77b9HdjaeBsMjS69wOLOJX0aQOdznH1Gc4lqzPQOceFSfLQgFropjKRZfnCdvE618
+2026-04-05 10:50:17,988 [INFO] API: 0 categories found
+2026-04-05 10:50:17,988 [INFO] Available categories: []
+2026-04-05 10:50:17,988 [ERROR] No categories available for prices [1000, 1500]
+2026-04-05 10:51:29,292 [DEBUG] Could not reach update server — skipping update check.
+2026-04-05 10:51:29,293 [INFO] STEP: Starting booking — account 1
+2026-04-05 10:51:30,662 [INFO] SUCCESS: Loaded session from cookies.json
+2026-04-05 10:51:30,662 [INFO] Opening https://in.bookmyshow.com/sports/gujarat-titans-vs-rajasthan-royals-tata-ipl-2026/ET00491074?data=groupPage
+2026-04-05 10:51:34,031 [INFO] Event: ET00491074 | Venue:  | Session: 00491074
+2026-04-05 10:51:39,065 [INFO] SUCCESS: Clicked 'Book Now'
+2026-04-05 10:51:40,567 [INFO] Session: ET00491228/IPEG/10181
+2026-04-05 10:51:41,604 [INFO] Pressed Escape
+2026-04-05 10:51:41,615 [INFO] SUCCESS: Seat picker visible
+2026-04-05 10:51:41,623 [INFO] SUCCESS: Selected 1 seat(s)
+2026-04-05 10:51:41,853 [INFO] SUCCESS: Clicked 'Continue'
+2026-04-05 10:51:43,856 [DEBUG] API URL: https://in.bookmyshow.com/api/le/seatLayout/showinfo?eventCode=ET00491228&venueCode=IPEG&sessionID=10181
+2026-04-05 10:51:43,962 [DEBUG] API response keys: ['data', 'status']
+2026-04-05 10:51:43,962 [DEBUG] API data: {"data": "s/yNv3N5fD6fLKkI2IxeIZSlgunB4zL7dZR76vrpKSmLrxIFcHpHg+yKaW4bb+Wt0Qoxjyy4ox7/d/xr18gn07U8SSSgkccl0LF3chjL8wyMPmSD1Tv1YR4yr2Hw5m1s7xmu4zzQ1R8mNP+afmmwgO+NmQiDClZ5hoYdOsbvQ9VnM9Zzz2h4FVsvq6WvQG0HYpzypohhfsgPayYlVjw7q1d3U48uaLeJyGcEtZfFqVvNkZCCfbmgEt04mobJrAV29zA1UJuxmxMwwsaYkTd+aDPo+l+TViwxD+
+2026-04-05 10:51:43,963 [INFO] API: 0 categories found
+2026-04-05 10:51:44,000 [INFO] SUCCESS: Clicked ₹1000
+2026-04-05 10:51:45,035 [INFO] SUCCESS: Selected: D 1 Block VIDA PAV (₹1000.00)
+2026-04-05 10:51:47,133 [WARNING] API seatLayout failed: Page.evaluate: SyntaxError: Unexpected non-whitespace character after JSON at position 4 (line 1 column 5)
+2026-04-05 10:51:47,203 [WARNING] API layoutDrawing failed: Page.evaluate: SyntaxError: Unexpected non-whitespace character after JSON at position 4 (line 1 column 5)
+2026-04-05 10:51:47,203 [INFO] SUCCESS: API: 0 clickable seats ready
+2026-04-05 10:51:47,203 [WARNING] API returned no seat coordinates — falling back to canvas
+2026-04-05 10:51:47,203 [INFO] Using canvas pixel fallback...
+2026-04-05 10:51:51,800 [INFO] SUCCESS: Canvas fallback: 1 seat(s)
+2026-04-05 10:51:51,800 [INFO] SUCCESS: Total seats: 1
+2026-04-05 10:51:52,105 [ERROR] Could not find 'Book' button
+2026-04-05 10:52:22,709 [DEBUG] Could not reach update server — skipping update check.
+2026-04-05 10:52:22,709 [INFO] STEP: Starting booking — account 1
+2026-04-05 10:52:27,427 [INFO] SUCCESS: Loaded session from cookies.json
+2026-04-05 10:52:27,427 [INFO] Opening https://in.bookmyshow.com/sports/gujarat-titans-vs-rajasthan-royals-tata-ipl-2026/ET00491074?data=groupPage
+2026-04-05 10:52:30,845 [INFO] Event: ET00491074 | Venue:  | Session: 00491074
+2026-04-05 10:52:38,819 [INFO] SUCCESS: Clicked 'Book Now'
+2026-04-05 10:52:40,322 [INFO] Session: ET00491227/IPEG/10180
+2026-04-05 10:52:41,328 [INFO] Pressed Escape
+2026-04-05 10:52:41,328 [INFO] SUCCESS: Seat picker visible
+2026-04-05 10:52:41,344 [INFO] SUCCESS: Selected 1 seat(s)
+2026-04-05 10:52:41,583 [INFO] SUCCESS: Clicked 'Continue'
+2026-04-05 10:52:43,585 [DEBUG] API URL: https://in.bookmyshow.com/api/le/seatLayout/showinfo?eventCode=ET00491227&venueCode=IPEG&sessionID=10180
+2026-04-05 10:52:43,702 [DEBUG] API response keys: ['data', 'status']
+2026-04-05 10:52:43,703 [DEBUG] API data: {"data": "s/yNv3N5fD6fLKkI2IxeIZSlgunB4zL7dZR76vrpKSmLrxIFcHpHg+yKaW4bb+Wts+5OYB2BJTj1MKLb8xD8R0DcQpFnjm+H7HtFJhfJdBWwhJvlih4hJWdJRdz52vlw4obRHRh5Q34a5gN+TDPc3btRXFS5tMBV1ZgRD0SBaKw6Gpm/zE5v+aIARchCtT2qQXLW+B0/n3T/4VE/hudBcxpkttrCjz3dC77b9HdjaeBsMjS69wOLOJX0aQOdznH1Gc4lqzPQOceFSfLQgFropjKRZfnCdvE618
+2026-04-05 10:52:43,703 [INFO] API: 0 categories found
+2026-04-05 10:52:43,735 [INFO] SUCCESS: Clicked ₹1000
+2026-04-05 10:52:44,760 [INFO] SUCCESS: Selected: D 1 Block VIDA PAV (₹1000.00)
+2026-04-05 10:52:46,859 [WARNING] API seatLayout failed: Page.evaluate: SyntaxError: Unexpected non-whitespace character after JSON at position 4 (line 1 column 5)
+2026-04-05 10:52:46,945 [WARNING] API layoutDrawing failed: Page.evaluate: SyntaxError: Unexpected non-whitespace character after JSON at position 4 (line 1 column 5)
+2026-04-05 10:52:46,946 [INFO] SUCCESS: API: 0 clickable seats ready
+2026-04-05 10:52:46,946 [WARNING] API returned no seat coordinates — falling back to canvas
+2026-04-05 10:52:46,946 [INFO] Using canvas pixel fallback...
+2026-04-05 10:52:52,562 [INFO] Clicked canvas (520,531)
+2026-04-05 10:52:53,070 [INFO] SUCCESS: Canvas: 1 seat(s) selected — Book visible
+2026-04-05 10:52:53,070 [INFO] SUCCESS: Total seats: 1
+2026-04-05 10:52:53,588 [INFO] SUCCESS: Clicked 'Book'
+2026-04-05 10:52:53,588 [INFO] STEP: Starting payment flow...
+2026-04-05 10:52:53,588 [INFO] Waiting for: Agree & Proceed popup
+2026-04-05 10:52:54,244 [INFO] SUCCESS: Clicked 'Agree & Proceed'
+2026-04-05 10:52:54,244 [INFO] Page loaded: ...ticket-options...
+2026-04-05 10:52:54,741 [INFO] SUCCESS: Clicked 'Proceed to Pay'
+2026-04-05 10:52:55,244 [INFO] Page loaded: ...order-summary...
+2026-04-05 10:52:55,248 [INFO] Contact Details popup visible
+2026-04-05 10:52:56,464 [INFO] SUCCESS: Filled email: fnaseem010@gmail.com
+2026-04-05 10:52:56,867 [INFO] SUCCESS: Clicked 'Submit' on Contact Details
+2026-04-05 10:52:56,867 [INFO] Page loaded: ...order-summary...
+2026-04-05 10:52:57,225 [INFO] Payment options page loaded
+2026-04-05 10:52:57,389 [INFO] SUCCESS: Clicked 'Scan QR code'
+2026-04-05 10:52:57,389 [INFO] SUCCESS: Ready to pay! QR code should be visible.
+2026-04-05 10:52:57,389 [WARNING] BOT STOPPED — waiting for your confirmation before proceeding.
+2026-04-05 10:52:57,389 [INFO] SUCCESS: ==================================================
+2026-04-05 10:52:57,389 [INFO] SUCCESS: QR CODE READY — Scan to pay
+2026-04-05 10:52:57,389 [INFO] SUCCESS: ==================================================
+2026-04-05 10:52:57,389 [ERROR] Error: EOF when reading a line
+2026-04-05 10:52:57,390 [DEBUG] Traceback (most recent call last):
+  File "/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/booking.py", line 548, in booking_flow
+    confirm = await asyncio.get_event_loop().run_in_executor(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, input, "\n  Confirm payment? (yes/no): "
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+EOFError: EOF when reading a line
+
+2026-04-05 10:53:36,568 [DEBUG] Could not reach update server — skipping update check.
+2026-04-05 10:54:45,273 [INFO] SUCCESS: Config saved to config.json (PIN excluded)
+2026-04-05 10:54:47,580 [INFO] STEP: Starting booking — account 1
+2026-04-05 10:54:48,920 [INFO] SUCCESS: Loaded session from cookies.json
+2026-04-05 10:54:48,920 [INFO] Opening https://in.bookmyshow.com/sports/kolkata-knight-riders-vs-punjab-kings-tata-ipl-2026/ET00491227?data=groupPage
+2026-04-05 10:54:52,361 [INFO] Event: ET00491227 | Venue:  | Session: 00491227
+2026-04-05 10:54:52,987 [INFO] SUCCESS: Clicked 'Book Now'
+2026-04-05 10:54:54,490 [INFO] Session: ET00491227/IPEG/10180
+2026-04-05 10:54:55,505 [INFO] Pressed Escape
+2026-04-05 10:54:55,506 [INFO] SUCCESS: Seat picker visible
+2026-04-05 10:54:55,522 [INFO] SUCCESS: Selected 2 seat(s)
+2026-04-05 10:54:55,750 [INFO] SUCCESS: Clicked 'Continue'
+2026-04-05 10:54:57,752 [DEBUG] API URL: https://in.bookmyshow.com/api/le/seatLayout/showinfo?eventCode=ET00491227&venueCode=IPEG&sessionID=10180
+2026-04-05 10:54:57,852 [DEBUG] API response keys: ['data', 'status']
+2026-04-05 10:54:57,853 [DEBUG] API data: {"data": "s/yNv3N5fD6fLKkI2IxeIZSlgunB4zL7dZR76vrpKSmLrxIFcHpHg+yKaW4bb+Wts+5OYB2BJTj1MKLb8xD8R0DcQpFnjm+H7HtFJhfJdBWwhJvlih4hJWdJRdz52vlw4obRHRh5Q34a5gN+TDPc3btRXFS5tMBV1ZgRD0SBaKw6Gpm/zE5v+aIARchCtT2qQXLW+B0/n3T/4VE/hudBcxpkttrCjz3dC77b9HdjaeBsMjS69wOLOJX0aQOdznH1Gc4lqzPQOceFSfLQgFropjKRZfnCdvE618
+2026-04-05 10:54:57,853 [INFO] API: 0 categories found
+2026-04-05 10:54:57,889 [INFO] SUCCESS: Clicked ₹1500
+2026-04-05 10:54:58,923 [INFO] SUCCESS: Selected: 1000
+D 1 Block VIDA PAV (₹1000.00)
+2026-04-05 10:55:01,015 [WARNING] API seatLayout failed: Page.evaluate: SyntaxError: Unexpected non-whitespace character after JSON at position 4 (line 1 column 5)
+2026-04-05 10:55:01,156 [WARNING] API layoutDrawing failed: Page.evaluate: SyntaxError: Unexpected non-whitespace character after JSON at position 4 (line 1 column 5)
+2026-04-05 10:55:01,156 [INFO] SUCCESS: API: 0 clickable seats ready
+2026-04-05 10:55:01,157 [WARNING] API returned no seat coordinates — falling back to canvas
+2026-04-05 10:55:01,157 [INFO] Using canvas pixel fallback...
+2026-04-05 10:55:06,209 [INFO] Clicked canvas (550,597)
+2026-04-05 10:55:06,469 [INFO] Clicked canvas (562,615)
+2026-04-05 10:55:06,977 [WARNING] Canvas: clicked 2 spots but Book may not be visible
+2026-04-05 10:55:06,977 [INFO] SUCCESS: Total seats: 2
+2026-04-05 10:55:07,291 [ERROR] Could not find 'Book' button
+2026-04-05 10:57:21,630 [DEBUG] Could not reach update server — skipping update check.
+2026-04-05 10:57:25,971 [INFO] SUCCESS: Config saved to config.json (PIN excluded)
+2026-04-05 10:57:27,784 [INFO] STEP: Starting booking — account 1
+2026-04-05 10:57:29,122 [INFO] SUCCESS: Loaded session from cookies.json
+2026-04-05 10:57:29,122 [INFO] Opening https://in.bookmyshow.com/sports/kolkata-knight-riders-vs-punjab-kings-tata-ipl-2026/ET00491227?data=groupPage
+2026-04-05 10:57:32,597 [INFO] Event: ET00491227 | Venue:  | Session: 00491227
+2026-04-05 10:57:33,096 [INFO] SUCCESS: Clicked 'Book Now'
+2026-04-05 10:57:34,600 [INFO] Session: ET00491227/IPEG/10180
+2026-04-05 10:57:35,613 [INFO] Pressed Escape
+2026-04-05 10:57:35,615 [INFO] SUCCESS: Seat picker visible
+2026-04-05 10:57:35,640 [INFO] SUCCESS: Selected 2 seat(s)
+2026-04-05 10:57:35,891 [INFO] SUCCESS: Clicked 'Continue'
+2026-04-05 10:57:37,894 [DEBUG] API URL: https://in.bookmyshow.com/api/le/seatLayout/showinfo?eventCode=ET00491227&venueCode=IPEG&sessionID=10180
+2026-04-05 10:57:37,994 [DEBUG] API response keys: ['data', 'status']
+2026-04-05 10:57:37,994 [DEBUG] API data: {"data": "s/yNv3N5fD6fLKkI2IxeIZSlgunB4zL7dZR76vrpKSmLrxIFcHpHg+yKaW4bb+Wts+5OYB2BJTj1MKLb8xD8R0DcQpFnjm+H7HtFJhfJdBWwhJvlih4hJWdJRdz52vlw4obRHRh5Q34a5gN+TDPc3btRXFS5tMBV1ZgRD0SBaKw6Gpm/zE5v+aIARchCtT2qQXLW+B0/n3T/4VE/hudBcxpkttrCjz3dC77b9HdjaeBsMjS69wOLOJX0aQOdznH1Gc4lqzPQOceFSfLQgFropjKRZfnCdvE618
+2026-04-05 10:57:37,995 [INFO] API: 0 categories found
+2026-04-05 10:57:38,031 [INFO] SUCCESS: Clicked ₹1500
+2026-04-05 10:57:39,062 [INFO] SUCCESS: Selected: B1 Block BKT TYRES PAV (₹1500.00)
+2026-04-05 10:57:41,157 [WARNING] API seatLayout failed: Page.evaluate: SyntaxError: Unexpected non-whitespace character after JSON at position 4 (line 1 column 5)
+2026-04-05 10:57:41,223 [WARNING] API layoutDrawing failed: Page.evaluate: SyntaxError: Unexpected non-whitespace character after JSON at position 4 (line 1 column 5)
+2026-04-05 10:57:41,223 [INFO] SUCCESS: API: 0 clickable seats ready
+2026-04-05 10:57:41,224 [WARNING] API returned no seat coordinates — falling back to canvas
+2026-04-05 10:57:41,224 [INFO] Using canvas pixel fallback...
+2026-04-05 10:57:46,391 [INFO] Clicked canvas (520,531)
+2026-04-05 10:57:46,646 [INFO] Clicked canvas (526,465)
+2026-04-05 10:57:47,152 [WARNING] Canvas: clicked 2 spots but Book may not be visible
+2026-04-05 10:57:47,152 [INFO] SUCCESS: Total seats: 2
+2026-04-05 10:57:47,458 [ERROR] Could not find 'Book' button
+2026-04-05 10:58:07,080 [DEBUG] Could not reach update server — skipping update check.
+2026-04-05 10:58:07,081 [INFO] STEP: Starting booking — account 1
+2026-04-05 10:58:07,994 [INFO] SUCCESS: Loaded session from cookies.json
+2026-04-05 10:58:07,995 [INFO] Opening https://in.bookmyshow.com/sports/kolkata-knight-riders-vs-punjab-kings-tata-ipl-2026/ET00491227?data=groupPage
+2026-04-05 10:58:11,378 [INFO] Event: ET00491227 | Venue:  | Session: 00491227
+2026-04-05 10:58:12,093 [INFO] SUCCESS: Clicked 'Book Now'
+2026-04-05 10:58:13,597 [INFO] Session: ET00491227/IPEG/10180
+2026-04-05 10:58:14,622 [INFO] Pressed Escape
+2026-04-05 10:58:14,623 [INFO] SUCCESS: Seat picker visible
+2026-04-05 10:58:14,640 [INFO] SUCCESS: Selected 2 seat(s)
+2026-04-05 10:58:14,870 [INFO] SUCCESS: Clicked 'Continue'
+2026-04-05 10:58:16,872 [DEBUG] API URL: https://in.bookmyshow.com/api/le/seatLayout/showinfo?eventCode=ET00491227&venueCode=IPEG&sessionID=10180
+2026-04-05 10:58:16,970 [DEBUG] API response keys: ['data', 'status']
+2026-04-05 10:58:16,971 [DEBUG] API data: {"data": "s/yNv3N5fD6fLKkI2IxeIZSlgunB4zL7dZR76vrpKSmLrxIFcHpHg+yKaW4bb+Wts+5OYB2BJTj1MKLb8xD8R0DcQpFnjm+H7HtFJhfJdBWwhJvlih4hJWdJRdz52vlw4obRHRh5Q34a5gN+TDPc3btRXFS5tMBV1ZgRD0SBaKw6Gpm/zE5v+aIARchCtT2qQXLW+B0/n3T/4VE/hudBcxpkttrCjz3dC77b9HdjaeBsMjS69wOLOJX0aQOdznH1Gc4lqzPQOceFSfLQgFropjKRZfnCdvE618
+2026-04-05 10:58:16,971 [INFO] API: 0 categories found
+2026-04-05 10:58:16,996 [INFO] SUCCESS: Clicked ₹1500
+2026-04-05 10:58:18,027 [INFO] SUCCESS: Selected: B1 Block BKT TYRES PAV (₹1500.00)
+2026-04-05 10:58:20,117 [WARNING] API seatLayout failed: Page.evaluate: SyntaxError: Unexpected non-whitespace character after JSON at position 4 (line 1 column 5)
+2026-04-05 10:58:20,187 [WARNING] API layoutDrawing failed: Page.evaluate: SyntaxError: Unexpected non-whitespace character after JSON at position 4 (line 1 column 5)
+2026-04-05 10:58:20,187 [INFO] SUCCESS: API: 0 clickable seats ready
+2026-04-05 10:58:20,188 [WARNING] API returned no seat coordinates — falling back to canvas
+2026-04-05 10:58:20,188 [INFO] Using canvas pixel fallback...
+2026-04-05 10:58:26,007 [INFO] Clicked canvas (520,531)
+2026-04-05 10:58:26,261 [INFO] Clicked canvas (526,465)
+2026-04-05 10:58:26,766 [INFO] SUCCESS: Canvas: 2 seat(s) selected — Book visible
+2026-04-05 10:58:26,766 [INFO] SUCCESS: Total seats: 2
+2026-04-05 10:58:27,273 [INFO] SUCCESS: Clicked 'Book'
+2026-04-05 10:58:27,273 [INFO] STEP: Starting payment flow...
+2026-04-05 10:58:27,273 [INFO] Waiting for: Agree & Proceed popup
+2026-04-05 10:58:28,002 [INFO] SUCCESS: Clicked 'Agree & Proceed'
+2026-04-05 10:58:28,002 [INFO] Page loaded: ...ticket-options...
+2026-04-05 10:58:29,208 [INFO] SUCCESS: Clicked 'Proceed to Pay'
+2026-04-05 10:58:29,711 [INFO] Page loaded: ...order-summary...
+2026-04-05 10:58:29,714 [INFO] Contact Details popup visible
+2026-04-05 10:58:30,918 [INFO] SUCCESS: Filled email: fnaseem010@gmail.com
+2026-04-05 10:58:31,239 [INFO] SUCCESS: Clicked 'Submit' on Contact Details
+2026-04-05 10:58:31,239 [INFO] Page loaded: ...order-summary...
+2026-04-05 10:58:31,609 [INFO] Payment options page loaded
+2026-04-05 10:58:31,971 [INFO] SUCCESS: Clicked 'Scan QR code'
+2026-04-05 10:58:31,971 [INFO] SUCCESS: Ready to pay! QR code should be visible.
+2026-04-05 10:58:31,971 [WARNING] BOT STOPPED — waiting for your confirmation before proceeding.
+2026-04-05 10:58:31,971 [INFO] SUCCESS: ==================================================
+2026-04-05 10:58:31,971 [INFO] SUCCESS: QR CODE READY — Scan to pay
+2026-04-05 10:58:31,971 [INFO] SUCCESS: ==================================================
+2026-04-05 10:58:31,972 [ERROR] Error: EOF when reading a line
+2026-04-05 10:58:31,973 [DEBUG] Traceback (most recent call last):
+  File "/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/booking.py", line 561, in booking_flow
+    confirm = await asyncio.get_event_loop().run_in_executor(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, input, "\n  Confirm payment? (yes/no): "
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+EOFError: EOF when reading a line
+
+2026-04-05 10:59:14,673 [DEBUG] Could not reach update server — skipping update check.
+2026-04-05 10:59:14,673 [INFO] STEP: Starting booking — account 1
+2026-04-05 10:59:15,575 [INFO] SUCCESS: Loaded session from cookies.json
+2026-04-05 10:59:15,575 [INFO] Opening https://in.bookmyshow.com/sports/kolkata-knight-riders-vs-punjab-kings-tata-ipl-2026/ET00491227?data=groupPage
+2026-04-05 10:59:18,937 [INFO] Event: ET00491227 | Venue:  | Session: 00491227
+2026-04-05 10:59:19,629 [INFO] SUCCESS: Clicked 'Book Now'
+2026-04-05 10:59:21,131 [INFO] Session: ET00491227/IPEG/10180
+2026-04-05 10:59:22,153 [INFO] Pressed Escape
+2026-04-05 10:59:22,155 [INFO] SUCCESS: Seat picker visible
+2026-04-05 10:59:22,172 [INFO] SUCCESS: Selected 2 seat(s)
+2026-04-05 10:59:22,399 [INFO] SUCCESS: Clicked 'Continue'
+2026-04-05 10:59:24,399 [DEBUG] API URL: https://in.bookmyshow.com/api/le/seatLayout/showinfo?eventCode=ET00491227&venueCode=IPEG&sessionID=10180
+2026-04-05 10:59:24,492 [DEBUG] API response keys: ['data', 'status']
+2026-04-05 10:59:24,493 [DEBUG] API data: {"data": "s/yNv3N5fD6fLKkI2IxeIZSlgunB4zL7dZR76vrpKSmLrxIFcHpHg+yKaW4bb+Wts+5OYB2BJTj1MKLb8xD8R0DcQpFnjm+H7HtFJhfJdBWwhJvlih4hJWdJRdz52vlw4obRHRh5Q34a5gN+TDPc3btRXFS5tMBV1ZgRD0SBaKw6Gpm/zE5v+aIARchCtT2qQXLW+B0/n3T/4VE/hudBcxpkttrCjz3dC77b9HdjaeBsMjS69wOLOJX0aQOdznH1Gc4lqzPQOceFSfLQgFropjKRZfnCdvE618
+2026-04-05 10:59:24,493 [INFO] API: 0 categories found
+2026-04-05 10:59:24,525 [INFO] SUCCESS: Clicked ₹1500
+2026-04-05 10:59:25,556 [INFO] SUCCESS: Selected: B1 Block BKT TYRES PAV (₹1500.00)
+2026-04-05 10:59:27,640 [WARNING] API seatLayout failed: Page.evaluate: SyntaxError: Unexpected non-whitespace character after JSON at position 4 (line 1 column 5)
+2026-04-05 10:59:27,703 [WARNING] API layoutDrawing failed: Page.evaluate: SyntaxError: Unexpected non-whitespace character after JSON at position 4 (line 1 column 5)
+2026-04-05 10:59:27,703 [INFO] SUCCESS: API: 0 clickable seats ready
+2026-04-05 10:59:27,703 [WARNING] API returned no seat coordinates — falling back to canvas
+2026-04-05 10:59:27,703 [INFO] Using canvas pixel fallback...
+2026-04-05 10:59:33,431 [INFO] Clicked canvas (520,531)
+2026-04-05 10:59:33,683 [INFO] Clicked canvas (526,465)
+2026-04-05 10:59:34,189 [INFO] SUCCESS: Canvas: 2 seat(s) selected — Book visible
+2026-04-05 10:59:34,189 [INFO] SUCCESS: Total seats: 2
+2026-04-05 10:59:34,694 [INFO] SUCCESS: Clicked 'Book'
+2026-04-05 10:59:34,694 [INFO] STEP: Starting payment flow...
+2026-04-05 10:59:34,694 [INFO] Waiting for: Agree & Proceed popup
+2026-04-05 10:59:35,418 [INFO] SUCCESS: Clicked 'Agree & Proceed'
+2026-04-05 10:59:35,418 [INFO] Page loaded: ...ticket-options...
+2026-04-05 10:59:35,929 [INFO] SUCCESS: Clicked 'Proceed to Pay'
+2026-04-05 10:59:36,432 [INFO] Page loaded: ...order-summary...
+2026-04-05 10:59:36,436 [INFO] Contact Details popup visible
+2026-04-05 10:59:37,640 [INFO] SUCCESS: Filled email: fnaseem010@gmail.com
+2026-04-05 10:59:38,127 [INFO] SUCCESS: Clicked 'Submit' on Contact Details
+2026-04-05 10:59:38,127 [INFO] Page loaded: ...order-summary...
+2026-04-05 10:59:38,504 [INFO] Payment options page loaded
+2026-04-05 10:59:38,894 [INFO] SUCCESS: Clicked 'Scan QR code'
+2026-04-05 10:59:38,894 [INFO] SUCCESS: Ready to pay! QR code should be visible.
+2026-04-05 10:59:38,894 [WARNING] BOT STOPPED — waiting for your confirmation before proceeding.
+2026-04-05 10:59:38,894 [INFO] SUCCESS: ==================================================
+2026-04-05 10:59:38,894 [INFO] SUCCESS: QR CODE READY — Scan to pay
+2026-04-05 10:59:38,894 [INFO] SUCCESS: ==================================================
+2026-04-05 10:59:38,894 [ERROR] Error: EOF when reading a line
+2026-04-05 10:59:38,896 [DEBUG] Traceback (most recent call last):
+  File "/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/booking.py", line 561, in booking_flow
+    confirm = await asyncio.get_event_loop().run_in_executor(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, input, "\n  Confirm payment? (yes/no): "
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+EOFError: EOF when reading a line
+
+2026-04-05 11:03:31,633 [INFO] STEP: Starting booking — account 1
+2026-04-05 11:03:32,600 [INFO] SUCCESS: Loaded session from cookies.json
+2026-04-05 11:03:36,137 [INFO] Event: ET00491227 | Venue:  | Session: 00491227
+2026-04-05 11:03:36,854 [INFO] SUCCESS: Clicked 'Book Now'
+2026-04-05 11:03:39,367 [INFO] Pressed Escape
+2026-04-05 11:03:39,367 [INFO] SUCCESS: Seat picker visible
+2026-04-05 11:03:39,383 [INFO] SUCCESS: Selected 4 seat(s)
+2026-04-05 11:03:39,622 [INFO] SUCCESS: Clicked 'Continue'
+2026-04-05 11:03:41,624 [DEBUG] API URL: https://in.bookmyshow.com/api/le/seatLayout/showinfo?eventCode=ET00491227&venueCode=IPEG&sessionID=10180
+2026-04-05 11:03:41,727 [DEBUG] API response keys: ['data', 'status']
+2026-04-05 11:03:41,727 [DEBUG] API data: {"data": "s/yNv3N5fD6fLKkI2IxeIZSlgunB4zL7dZR76vrpKSmLrxIFcHpHg+yKaW4bb+Wts+5OYB2BJTj1MKLb8xD8R0DcQpFnjm+H7HtFJhfJdBWwhJvlih4hJWdJRdz52vlw4obRHRh5Q34a5gN+TDPc3btRXFS5tMBV1ZgRD0SBaKw6Gpm/zE5v+aIARchCtT2qQXLW+B0/n3T/4VE/hudBcxpkttrCjz3dC77b9HdjaeBsMjS69wOLOJX0aQOdznH1Gc4lqzPQOceFSfLQgFropjKRZfnCdvE618
+2026-04-05 11:03:41,727 [INFO] API: 0 categories found
+2026-04-05 11:03:41,752 [INFO] SUCCESS: Clicked ₹1500
+2026-04-05 11:03:42,784 [INFO] SUCCESS: Selected: B1 Block BKT TYRES PAV (₹1500.00)
+2026-04-05 11:03:44,876 [WARNING] API seatLayout failed: Page.evaluate: SyntaxError: Unexpected non-whitespace character after JSON at position 4 (line 1 column 5)
+2026-04-05 11:03:44,944 [WARNING] API layoutDrawing failed: Page.evaluate: SyntaxError: Unexpected non-whitespace character after JSON at position 4 (line 1 column 5)
+2026-04-05 11:03:44,944 [INFO] SUCCESS: API: 0 clickable seats ready
+2026-04-05 11:03:44,944 [WARNING] API returned no seat coordinates — falling back to canvas
+2026-04-05 11:03:44,945 [INFO] Using canvas pixel fallback...
+2026-04-05 11:03:50,802 [INFO] Clicked canvas (520,531)
+2026-04-05 11:03:51,071 [INFO] Clicked canvas (526,465)
+2026-04-05 11:03:51,334 [INFO] Clicked canvas (526,477)
+2026-04-05 11:03:51,584 [INFO] Clicked canvas (526,489)
+2026-04-05 11:03:52,094 [INFO] SUCCESS: Canvas: 4 seat(s) selected — Book visible
+2026-04-05 11:03:52,605 [INFO] SUCCESS: Clicked 'Book'
+2026-04-05 11:03:52,605 [INFO] STEP: Starting payment flow...
+2026-04-05 11:03:52,605 [INFO] Waiting for: Agree & Proceed popup
+2026-04-05 11:03:53,340 [INFO] SUCCESS: Clicked 'Agree & Proceed'
+2026-04-05 11:03:53,340 [INFO] Page loaded: ...ticket-options...
+2026-04-05 11:03:53,805 [INFO] SUCCESS: Clicked 'Proceed to Pay'
+2026-04-05 11:03:54,312 [INFO] Page loaded: ...order-summary...
+2026-04-05 11:03:54,316 [INFO] Contact Details popup visible
+2026-04-05 11:03:55,542 [INFO] SUCCESS: Filled email: fnaseem010@gmail.com
+2026-04-05 11:03:55,840 [INFO] SUCCESS: Clicked 'Submit' on Contact Details
+2026-04-05 11:03:55,840 [INFO] Page loaded: ...order-summary...
+2026-04-05 11:03:56,347 [INFO] Payment options page loaded
+2026-04-05 11:03:56,614 [INFO] SUCCESS: Clicked 'Scan QR code'
+2026-04-05 11:03:56,614 [INFO] SUCCESS: Ready to pay! QR code should be visible.
+2026-04-05 11:03:56,614 [WARNING] BOT STOPPED — waiting for your confirmation before proceeding.
+2026-04-05 11:03:56,614 [INFO] SUCCESS: ==================================================
+2026-04-05 11:03:56,614 [INFO] SUCCESS: PAYMENT PAGE READY — Complete payment manually
+2026-04-05 11:03:56,614 [INFO] SUCCESS: ==================================================
+2026-04-05 11:03:56,614 [INFO] Browser will stay open. Press ENTER here when done to close.
+2026-04-05 11:05:02,954 [INFO] STEP: Starting booking — account 1
+2026-04-05 11:05:03,268 [ERROR] Error: BrowserType.launch_persistent_context: Target page, context or browser has been closed
+Browser logs:
+
+<launching> /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --disable-infobars --no-first-run --no-default-browser-check --disable-popup-blocking --disable-component-update --user-data-dir=/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/chrome_profiles/account_0 --remote-debugging-pipe about:blank
+<launched> pid=11691
+[pid=11691][out] Opening in existing browser session.
+Call log:
+  - <launching> /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --disable-infobars --no-first-run --no-default-browser-check --disable-popup-blocking --disable-component-update --user-data-dir=/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/chrome_profiles/account_0 --remote-debugging-pipe about:blank
+  - <launched> pid=11691
+  - [pid=11691][out] Opening in existing browser session.
+  - [pid=11691] <gracefully close start>
+  - [pid=11691] <kill>
+  - [pid=11691] <will force kill>
+  - [pid=11691] exception while trying to kill process: Error: kill EPERM
+  - [pid=11691] <process did exit: exitCode=0, signal=null>
+  - [pid=11691] starting temporary directories cleanup
+  - [pid=11691] finished temporary directories cleanup
+  - [pid=11691] <gracefully close end>
+
+2026-04-05 11:05:03,269 [DEBUG] Traceback (most recent call last):
+  File "/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/run.py", line 23, in _patched_flow
+    pw, browser, context, page = await launch_browser(config, acc)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/browser.py", line 50, in launch_browser
+    context = await pw.chromium.launch_persistent_context(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/venv/lib/python3.13/site-packages/playwright/async_api/_generated.py", line 14840, in launch_persistent_context
+    await self._impl_obj.launch_persistent_context(
+    ...<50 lines>...
+    )
+  File "/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/venv/lib/python3.13/site-packages/playwright/_impl/_browser_type.py", line 164, in launch_persistent_context
+    result = await self._channel.send_return_as_dict(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        "launchPersistentContext", TimeoutSettings.launch_timeout, params
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/venv/lib/python3.13/site-packages/playwright/_impl/_connection.py", line 83, in send_return_as_dict
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/venv/lib/python3.13/site-packages/playwright/_impl/_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: BrowserType.launch_persistent_context: Target page, context or browser has been closed
+Browser logs:
+
+<launching> /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --disable-infobars --no-first-run --no-default-browser-check --disable-popup-blocking --disable-component-update --user-data-dir=/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/chrome_profiles/account_0 --remote-debugging-pipe about:blank
+<launched> pid=11691
+[pid=11691][out] Opening in existing browser session.
+Call log:
+  - <launching> /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --disable-infobars --no-first-run --no-default-browser-check --disable-popup-blocking --disable-component-update --user-data-dir=/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/chrome_profiles/account_0 --remote-debugging-pipe about:blank
+  - <launched> pid=11691
+  - [pid=11691][out] Opening in existing browser session.
+  - [pid=11691] <gracefully close start>
+  - [pid=11691] <kill>
+  - [pid=11691] <will force kill>
+  - [pid=11691] exception while trying to kill process: Error: kill EPERM
+  - [pid=11691] <process did exit: exitCode=0, signal=null>
+  - [pid=11691] starting temporary directories cleanup
+  - [pid=11691] finished temporary directories cleanup
+  - [pid=11691] <gracefully close end>
+
+
+2026-04-05 11:05:03,269 [INFO] Browser staying open. Press Ctrl+C to exit.
+2026-04-05 11:06:22,183 [INFO] STEP: Starting booking — account 1
+2026-04-05 11:06:22,498 [ERROR] Error: BrowserType.launch_persistent_context: Target page, context or browser has been closed
+Browser logs:
+
+<launching> /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --disable-infobars --no-first-run --no-default-browser-check --disable-popup-blocking --disable-component-update --user-data-dir=/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/chrome_profiles/account_0 --remote-debugging-pipe about:blank
+<launched> pid=11891
+[pid=11891][out] Opening in existing browser session.
+Call log:
+  - <launching> /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --disable-infobars --no-first-run --no-default-browser-check --disable-popup-blocking --disable-component-update --user-data-dir=/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/chrome_profiles/account_0 --remote-debugging-pipe about:blank
+  - <launched> pid=11891
+  - [pid=11891][out] Opening in existing browser session.
+  - [pid=11891] <gracefully close start>
+  - [pid=11891] <kill>
+  - [pid=11891] <will force kill>
+  - [pid=11891] exception while trying to kill process: Error: kill EPERM
+  - [pid=11891] <process did exit: exitCode=0, signal=null>
+  - [pid=11891] starting temporary directories cleanup
+  - [pid=11891] finished temporary directories cleanup
+  - [pid=11891] <gracefully close end>
+
+2026-04-05 11:06:22,499 [DEBUG] Traceback (most recent call last):
+  File "/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/run.py", line 23, in _patched_flow
+    pw, browser, context, page = await launch_browser(config, acc)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/browser.py", line 50, in launch_browser
+    context = await pw.chromium.launch_persistent_context(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/venv/lib/python3.13/site-packages/playwright/async_api/_generated.py", line 14840, in launch_persistent_context
+    await self._impl_obj.launch_persistent_context(
+    ...<50 lines>...
+    )
+  File "/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/venv/lib/python3.13/site-packages/playwright/_impl/_browser_type.py", line 164, in launch_persistent_context
+    result = await self._channel.send_return_as_dict(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        "launchPersistentContext", TimeoutSettings.launch_timeout, params
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/venv/lib/python3.13/site-packages/playwright/_impl/_connection.py", line 83, in send_return_as_dict
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/venv/lib/python3.13/site-packages/playwright/_impl/_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: BrowserType.launch_persistent_context: Target page, context or browser has been closed
+Browser logs:
+
+<launching> /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --disable-infobars --no-first-run --no-default-browser-check --disable-popup-blocking --disable-component-update --user-data-dir=/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/chrome_profiles/account_0 --remote-debugging-pipe about:blank
+<launched> pid=11891
+[pid=11891][out] Opening in existing browser session.
+Call log:
+  - <launching> /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --disable-infobars --no-first-run --no-default-browser-check --disable-popup-blocking --disable-component-update --user-data-dir=/Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/chrome_profiles/account_0 --remote-debugging-pipe about:blank
+  - <launched> pid=11891
+  - [pid=11891][out] Opening in existing browser session.
+  - [pid=11891] <gracefully close start>
+  - [pid=11891] <kill>
+  - [pid=11891] <will force kill>
+  - [pid=11891] exception while trying to kill process: Error: kill EPERM
+  - [pid=11891] <process did exit: exitCode=0, signal=null>
+  - [pid=11891] starting temporary directories cleanup
+  - [pid=11891] finished temporary directories cleanup
+  - [pid=11891] <gracefully close end>
+
+
+2026-04-05 11:06:22,499 [INFO] Browser staying open. Press Ctrl+C to exit.
+2026-04-05 11:07:44,054 [INFO] STEP: Starting booking — account 1
+2026-04-05 11:07:45,032 [INFO] SUCCESS: Loaded session from cookies.json
+2026-04-05 11:07:48,403 [INFO] Event: ET00491227 | Venue:  | Session: 00491227
+2026-04-05 11:07:48,968 [INFO] SUCCESS: Clicked 'Book Now'
+2026-04-05 11:07:51,479 [INFO] Pressed Escape
+2026-04-05 11:07:51,480 [INFO] SUCCESS: Seat picker visible
+2026-04-05 11:07:51,481 [INFO] SUCCESS: Selected 4 seat(s)
+2026-04-05 11:07:51,709 [INFO] SUCCESS: Clicked 'Continue'
+2026-04-05 11:07:53,712 [DEBUG] API URL: https://in.bookmyshow.com/api/le/seatLayout/showinfo?eventCode=ET00491227&venueCode=IPEG&sessionID=10180
+2026-04-05 11:07:53,816 [DEBUG] API response keys: ['data', 'status']
+2026-04-05 11:07:53,817 [DEBUG] API data: {"data": "s/yNv3N5fD6fLKkI2IxeIZSlgunB4zL7dZR76vrpKSmLrxIFcHpHg+yKaW4bb+Wts+5OYB2BJTj1MKLb8xD8R0DcQpFnjm+H7HtFJhfJdBWwhJvlih4hJWdJRdz52vlw4obRHRh5Q34a5gN+TDPc3btRXFS5tMBV1ZgRD0SBaKw6Gpm/zE5v+aIARchCtT2qQXLW+B0/n3T/4VE/hudBcxpkttrCjz3dC77b9HdjaeBsMjS69wOLOJX0aQOdznH1Gc4lqzPQOceFSfLQgFropjKRZfnCdvE618
+2026-04-05 11:07:53,817 [INFO] API: 0 categories found
+2026-04-05 11:07:53,845 [INFO] SUCCESS: Clicked ₹1500
+2026-04-05 11:07:54,878 [INFO] SUCCESS: Selected: B1 Block BKT TYRES PAV (₹1500.00)
+2026-04-05 11:07:57,000 [WARNING] API seatLayout failed: Page.evaluate: SyntaxError: Unexpected non-whitespace character after JSON at position 4 (line 1 column 5)
+2026-04-05 11:07:57,072 [WARNING] API layoutDrawing failed: Page.evaluate: SyntaxError: Unexpected non-whitespace character after JSON at position 4 (line 1 column 5)
+2026-04-05 11:07:57,073 [INFO] SUCCESS: API: 0 clickable seats ready
+2026-04-05 11:07:57,073 [WARNING] API returned no seat coordinates — falling back to canvas
+2026-04-05 11:07:57,073 [INFO] Using canvas pixel fallback...
+2026-04-05 11:08:02,033 [INFO] Clicked canvas (520,531)
+2026-04-05 11:08:02,303 [INFO] Clicked canvas (526,465)
+2026-04-05 11:08:02,567 [INFO] Clicked canvas (526,477)
+2026-04-05 11:08:02,830 [INFO] Clicked canvas (526,489)
+2026-04-05 11:08:03,339 [INFO] SUCCESS: Canvas: 4 seat(s) selected — Book visible
+2026-04-05 11:08:03,844 [INFO] SUCCESS: Clicked 'Book'
+2026-04-05 11:08:03,844 [INFO] STEP: Starting payment flow...
+2026-04-05 11:08:03,845 [INFO] Waiting for: Agree & Proceed popup
+2026-04-05 11:08:04,506 [INFO] SUCCESS: Clicked 'Agree & Proceed'
+2026-04-05 11:08:04,506 [INFO] Page loaded: ...ticket-options...
+2026-04-05 11:08:04,978 [INFO] SUCCESS: Clicked 'Proceed to Pay'
+2026-04-05 11:08:05,480 [INFO] Page loaded: ...order-summary...
+2026-04-05 11:08:05,487 [INFO] Contact Details popup visible
+2026-04-05 11:08:06,671 [INFO] SUCCESS: Filled email: fnaseem010@gmail.com
+2026-04-05 11:08:07,132 [INFO] SUCCESS: Clicked 'Submit' on Contact Details
+2026-04-05 11:08:07,132 [INFO] Page loaded: ...order-summary...
+2026-04-05 11:08:07,526 [INFO] Payment options page loaded
+2026-04-05 11:08:07,964 [INFO] SUCCESS: Clicked 'Scan QR code'
+2026-04-05 11:08:07,964 [INFO] SUCCESS: Ready to pay! QR code should be visible.
+2026-04-05 11:08:07,964 [WARNING] BOT STOPPED — waiting for your confirmation before proceeding.
+2026-04-05 11:08:07,964 [INFO] SUCCESS: ==================================================
+2026-04-05 11:08:07,964 [INFO] SUCCESS: PAYMENT PAGE READY — Complete payment manually
+2026-04-05 11:08:07,964 [INFO] SUCCESS: ==================================================
+2026-04-05 11:08:07,964 [INFO] Browser will stay open. Press ENTER here when done to close.
