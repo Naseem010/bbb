@@ -1,0 +1,19 @@
+2026/03/31-22:39:22.119 2f3f96 Reusing MANIFEST /Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/chrome_profiles/account_0/Default/Session Storage/MANIFEST-000001
+2026/03/31-22:39:22.119 2f3f96 Recovering log #52
+2026/03/31-22:39:22.120 2f3f96 Level-0 table #55: started
+2026/03/31-22:39:22.158 2f3f96 Level-0 table #55: 15241 bytes OK
+2026/03/31-22:39:22.168 2f3f96 Recovering log #54
+2026/03/31-22:39:22.169 2f3f96 Reusing old log /Users/faheemuddin.naseem/Desktop/temp/bookmyshow-bot/chrome_profiles/account_0/Default/Session Storage/000054.log 
+2026/03/31-22:39:22.170 2f3f96 Delete type=0 #52
+2026/03/31-22:39:22.173 2f3f9b Compacting 4@0 + 1@1 files
+2026/03/31-22:39:22.180 2f3f9b Generated table #56@0: 11 keys, 14065 bytes
+2026/03/31-22:39:22.180 2f3f9b Compacted 4@0 + 1@1 files => 14065 bytes
+2026/03/31-22:39:22.181 2f3f9b compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/03/31-22:39:22.182 2f3f9b Delete type=2 #49
+2026/03/31-22:39:22.182 2f3f9b Delete type=2 #55
+2026/03/31-22:39:22.182 2f3f9b Delete type=2 #51
+2026/03/31-22:39:22.182 2f3f9b Delete type=2 #47
+2026/03/31-22:39:22.182 2f3f9b Delete type=2 #53
+2026/03/31-22:39:54.545 2f3f9b Level-0 table #58: started
+2026/03/31-22:39:54.548 2f3f9b Level-0 table #58: 15271 bytes OK
+2026/03/31-22:39:54.550 2f3f9b Delete type=0 #54

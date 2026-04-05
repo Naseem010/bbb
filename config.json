@@ -1,0 +1,18 @@
+{
+  "email": "fnaseem010@gmail.com",
+  "phone": "8744834503",
+  "upi_id": "naseem010@pingpay",
+  "event_url": "https://in.bookmyshow.com/sports/gujarat-titans-vs-rajasthan-royals-tata-ipl-2026/ET00491074?data=groupPage",
+  "target_prices": [
+    1000,
+    1500
+  ],
+  "preferred_stands": [],
+  "num_accounts": 1,
+  "num_seats": 1,
+  "mode": 2,
+  "proxy": "",
+  "headless": false,
+  "retry_interval": 0.5,
+  "max_retries": 600
+}
